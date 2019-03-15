@@ -6,7 +6,6 @@ This repo is an SSCCE which reproduces the bug.
 
 Places where this has been reported
 https://github.com/FortAwesome/Font-Awesome/issues/7770
-https://github.com/bramstein/fontfaceobserver/issues/35
 https://stackoverflow.com/questions/22751758/font-awesome-icons-not-working-in-osx-safari
 
 # How to use this repo
@@ -18,3 +17,8 @@ https://stackoverflow.com/questions/22751758/font-awesome-icons-not-working-in-o
 Expected behavior - the icon should be shown
 
 Actual behavior - the text is shown b/c the cache is corrupted.
+
+# What does this bug look like?
+
+![Repro](https://raw.githubusercontent.com/doanythingfordethklok/safari-cache-bug/master/repro.gif)
+
