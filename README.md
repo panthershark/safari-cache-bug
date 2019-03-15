@@ -1,6 +1,6 @@
 # Safari Cache Bug
 
-There is a cache corruption bug that has been reported in a number of places. It seems to be a race condition triggered when window.location is changed while a resource is being fetched.
+There is a cache corruption bug that has been reported in a number of places. It seems to be a race condition triggered when window.location is changed while a resource is being fetched. There may be a number of other scenarios that trigger this.
 
 This repo is an SSCCE which reproduces the bug.
 
