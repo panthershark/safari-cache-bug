@@ -5,8 +5,10 @@ There is a cache corruption bug that has been reported in a number of places. It
 This repo is an SSCCE which reproduces the bug.
 
 Places where this has been reported
-https://github.com/FortAwesome/Font-Awesome/issues/7770
-https://stackoverflow.com/questions/22751758/font-awesome-icons-not-working-in-osx-safari
+
+* https://github.com/FortAwesome/Font-Awesome/issues/7770
+* https://stackoverflow.com/questions/22751758/font-awesome-icons-not-working-in-osx-safari
+* https://github.com/google/fonts/issues/1616
 
 # How to use this repo
 
