@@ -10,6 +10,8 @@ Places where this has been reported
 * https://stackoverflow.com/questions/22751758/font-awesome-icons-not-working-in-osx-safari
 * https://github.com/google/fonts/issues/1616
 
+This is being investigated at https://bugs.webkit.org/show_bug.cgi?id=194251
+
 # How to use this repo
 
 - Clone this repo
